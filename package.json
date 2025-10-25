@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "bcrypt": "^6.0.0",
-    "firebase-admin": "^13.5.0"
-  }
-}
